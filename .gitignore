@@ -7,3 +7,5 @@ npm-debug.log
 
 # dotenv environment variable file
 .env
+
+.vscode
